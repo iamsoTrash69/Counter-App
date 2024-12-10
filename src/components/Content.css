@@ -1,0 +1,20 @@
+.content-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f0f4f8; /* Light grey-blue background color */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Slightly stronger shadow */
+}
+
+.content-heading {
+    margin-top: 0;
+    font-size: 1.8rem; /* Slightly larger font size */
+    color: #2c3e50; /* Darker color for the heading */
+}
+
+.content-paragraph {
+    margin-bottom: 15px; /* Increased margin for better spacing */
+    line-height: 1.8; /* Slightly increased line height for readability */
+    color: #34495e; /* Darker color for the text */
+}

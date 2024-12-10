@@ -1,0 +1,22 @@
+.car-container {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.car-heading {
+    color: #2c3e50;
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.car-details {
+    color: #34495e;
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
